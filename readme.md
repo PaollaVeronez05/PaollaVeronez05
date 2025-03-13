@@ -21,9 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00b89f&color:FFF)](https:https://www.linkedin.com/in/paolla-paula-veronez-525441352/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00b89f&color:FFF)](https://www.instagram.com/paolla_veronez5/)
 
-
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://blog.ateliware.com/wp-content/uploads/2024/02/padroes-de-design-transformar-programacao-2.png">
-
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/ef/c7/df/efc7df4bdceff01d890961f3eb368863.gif">
 
 <picture align="center">
