@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Meu nome é Paolla, estudante do SENAI na área de Desenvolvimento de Sistemas. Apaixonada por tecnologia e programação, estou em constante aprendizado para criar soluções inovadoras e eficientes. Busco aprimorar minhas habilidades em linguagens como Java, Python e desenvolvimento web, sempre focando em qualidade e usabilidade. Estou pronta para enfrentar desafios e contribuir para o mundo da tecnologia! 🏎️❤️
+  Meu nome é Paolla, estudante do SENAI na área de Desenvolvimento de Sistemas. Estou em constante aprendizado para criar soluções inovadoras e eficientes. Busco aprimorar minhas habilidades em linguagens como Java, Python e desenvolvimento web, sempre focando em qualidade e usabilidade.  🏎️❤️
   
 #
 
