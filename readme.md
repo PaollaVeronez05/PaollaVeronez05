@@ -22,8 +22,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00b89f&color:FFF)](https://www.instagram.com/paolla_veronez5/)
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/98/59/2e/98592e34e7b0326ac630ca2370ea68de.gif">
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://blog.ateliware.com/wp-content/uploads/2024/02/padroes-de-design-transformar-programacao-2.png">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
