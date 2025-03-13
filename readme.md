@@ -20,6 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00b89f&color:FFF)](https:https://www.linkedin.com/in/paolla-paula-veronez-525441352/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00b89f&color:FFF)](https://www.instagram.com/paolla_veronez5/)
+
 <img data-target="animated-image.replacedImage" alt="study.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px" style="display: block; opacity: 1;">
 
 
