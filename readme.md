@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me!</h3>
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00b89f&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00b89f&color:FFF)](https:https://www.linkedin.com/in/paolla-paula-veronez-525441352/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00b89f&color:FFF)](https://www.instagram.com/mari4.souza/)
 
 
