@@ -62,7 +62,7 @@ Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" 
 />
 <img 
     align="left" 
