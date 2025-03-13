@@ -23,6 +23,8 @@
 
 <img data-target="animated-image.replacedImage" alt="study.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px" style="display: block; opacity: 1;">
 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://blog.ateliware.com/wp-content/uploads/2024/02/padroes-de-design-transformar-programacao-2.png">
+
 
 
 
