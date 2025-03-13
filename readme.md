@@ -8,8 +8,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas pelo Senai São Paulo,estou em processo de aprendizagem
   
 #
 
@@ -66,11 +65,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-# 🧙🏻‍♂️ Mago Raul
 
-**`Desenvolvedor FullStack`**
 
-olá,sou estudante na áre de tecnologia da informação voltada acurso de desenvolvimento de sistemas "[@rauln7](https://www.instagram.com/rauln7/)".
+
+ "[@rauln7](https://www.instagram.com/rauln7/)".
 
 
 
