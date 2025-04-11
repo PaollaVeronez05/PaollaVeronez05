@@ -22,6 +22,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00b89f&color:FFF)](https://www.instagram.com/paolla_veronez5/)
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/ef/c7/df/efc7df4bdceff01d890961f3eb368863.gif">
+src="https://<img class="m-0 cursor-zoom-in max-h-full max-w-full" src="https://i.redd.it/8px8re2bo3l81.gif" alt="CDN media">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
