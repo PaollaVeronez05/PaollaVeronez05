@@ -42,7 +42,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
-
+<video class="jI_JN7" data-test-id="duplo-hls-video" elementtiming="gestalt-video" playsinline="" poster="https://i.pinimg.com/videos/thumbnails/originals/43/6f/a7/436fa711fe37f5d1102401bdb423db33.0000000.jpg" preload="auto" src="blob:https://br.pinterest.com/ec1ff99a-4da2-4e86-a343-4c332d818e58" style="object-fit: contain;"><track kind="captions"></video>
 
 
   </a>
