@@ -42,13 +42,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
-<p align="center">
-  <img src
-
-https://github.com/user-attachments/assets/a0eb8600-0fad-4bfe-b438-0d73000db560
-
-="" width="600">
-</p>
+<img src="https://github.com/user-attachments/assets/0e31f995-46f3-44dc-89cd-ec3f73e40423" height="25" alt="docker logo"  />
 
 
   </a>
