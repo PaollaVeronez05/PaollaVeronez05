@@ -123,14 +123,90 @@ Busco constantemente novos desafios e oportunidades que me permitam **aprender, 
 
 ---
 
+---
 
-## 📅 Minha atividade no GitHub
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/SEU_USERNAME)
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 💎 Peça Rara
+
+Projeto de desenvolvimento de uma aplicação web funcional, trabalhando desde a prototipação até a integração com banco de dados.
+
+**🛠️ Tecnologias**
+
+`PHP` `MySQL` `Bootstrap` `HTML` `CSS`
+
+**🎯 Foco**
+
+Desenvolvimento Full Stack • Banco de Dados • Desenvolvimento Web
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏎️ Quiz da Fórmula 1
+
+Aplicação web desenvolvida para praticar conceitos de PHP, JavaScript e Bootstrap, utilizando lógica de programação e gerenciamento de sessões.
+
+**🛠️ Tecnologias**
+
+`PHP` `JavaScript` `Bootstrap` `HTML` `CSS`
+
+**🎯 Foco**
+
+Back-End • Lógica de Programação • Desenvolvimento Web
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🎬 Cineverso Park
+
+Projeto de prototipação e desenvolvimento de uma landing page para um parque temático inspirado no universo cinematográfico.
+
+**🛠️ Tecnologias**
+
+`Figma` `UI/UX` `Prototipação`
+
+**🎯 Foco**
+
+Design de Interfaces • Experiência do Usuário • Prototipação
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 Projetos SENAI
+
+Conjunto de projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas, explorando diferentes tecnologias e conceitos de programação.
+
+**🛠️ Tecnologias**
+
+`PHP` `JavaScript` `MySQL` `HTML` `CSS`
+
+**🎯 Foco**
+
+Desenvolvimento de Sistemas • Banco de Dados • Back-End
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
+
 
 
 ---
