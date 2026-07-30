@@ -130,7 +130,7 @@ Busco constantemente novos desafios e oportunidades que me permitam **aprender, 
 
 `PHP` `JavaScript` `MySQL` `HTML` `CSS`
 
-**  Foco**
+**🎯 Foco**
 
 Desenvolvimento de Sistemas • Banco de Dados • Back-End
 
