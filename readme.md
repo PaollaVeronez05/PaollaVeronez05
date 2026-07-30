@@ -1,64 +1,102 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0CABA8&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div><div align="center">
-  <a href="https://git.io/typing-svg">
-    
-  </a>
-</div>
+<h1 align="center">Olá!  Eu sou a Paolla Paula Veronez</h1>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
-
+<h3 align="center">
+Desenvolvedora de Sistemas • Full Stack com foco em Back-End
+</h3>
 
 <p align="center">
-  Meu nome é Paolla, estudante do SENAI na área de Desenvolvimento de Sistemas. Estou em constante aprendizado para criar soluções inovadoras e eficientes. Busco aprimorar minhas habilidades em linguagens como Java, Python e desenvolvimento web, sempre focando em qualidade e usabilidade.  🏎️❤️
-  
-#
+Estudante de Desenvolvimento de Sistemas pelo <strong>SENAI São Paulo</strong>, apaixonada por tecnologia, desenvolvimento de software e resolução de problemas através da programação.
+</p>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+---
 
-<h3 align="left">Habilidades</h3>
+## 💻 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-</div>
+- 🎓 Estudante de Desenvolvimento de Sistemas no SENAI São Paulo
+- 💙 Foco em desenvolvimento **Back-End**
+- 🚀 Desenvolvendo aplicações web, sistemas e dashboards
+- 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+- ⚙️ Experiência com metodologia ágil **Scrum**
+- 🎯 Objetivo profissional: atuar como Desenvolvedora Back-End e evoluir para Engenharia de Software
 
-<video src="https://github.com/user-attachments/assets/0e31f995-46f3-44dc-89cd-ec3f73e40423"></video>
+---
 
-  </a>
-</div>
+## 🚀 Tecnologias
 
+<p align="left">
 
-<h3 align="left">Connect with me!</h3>
+<img src="https://skillicons.dev/icons?i=php" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00b89f&color:FFF)](https:https://www.linkedin.com/in/paolla-paula-veronez-525441352/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00b89f&color:FFF)](https://www.instagram.com/paolla_veronez5/)
+---
 
+## 🛠️ Ferramentas
 
+- phpMyAdmin
+- MySQL Workbench
+- Figma
+- Visual Studio Code
+- GitHub
+- Miro
+- Trello
+- Scrum
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+---
 
-</picture>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+## 📈 Atualmente estudando
 
+- Arquitetura de Software
+- APIs REST
+- Boas práticas de Back-End
+- Banco de Dados
+- JavaScript Moderno
+- Node.js
+- PHP
+- Engenharia de Software
 
+---
+
+## 🎯 Objetivos
+
+✔ Construir aplicações escaláveis
+
+✔ Aprimorar minhas habilidades em Back-End
+
+✔ Desenvolver soluções eficientes para problemas reais
+
+✔ Evoluir continuamente como Desenvolvedora de Software
+
+✔ Contribuir em projetos que gerem impacto positivo
+
+---
+
+## 📫 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/paolla-paula-veronez">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Transformando ideias em soluções através da tecnologia."</i>
+</p>
