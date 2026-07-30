@@ -53,7 +53,7 @@ Atualmente, estou em constante evolução, aprofundando meus conhecimentos em de
 
 </p>
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 
 <p align="left">
 
@@ -89,7 +89,7 @@ Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia, evoluindo como **Desenvolvedora Back-End** e, futuramente, aprofundar meus conhecimentos em **Engenharia de Software**.
 
@@ -128,7 +128,7 @@ Busco constantemente novos desafios e oportunidades que me permitam **aprender, 
 
 `PHP` `JavaScript` `MySQL` `HTML` `CSS`
 
-**🎯 Foco**
+**  Foco**
 
 Desenvolvimento de Sistemas • Banco de Dados • Back-End
 
@@ -141,9 +141,6 @@ Desenvolvimento de Sistemas • Banco de Dados • Back-End
 
 ---
 
-
-
----
 
 ##  Filosofia
 
