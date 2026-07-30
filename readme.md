@@ -125,29 +125,17 @@ Busco constantemente novos desafios e oportunidades que me permitam **aprender, 
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<a href="https://github.com/SEU_USERNAME">
+![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=for-the-badge&logo=github&label=Seguidores)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+![GitHub stars](https://img.shields.io/github/stars/SEU_USERNAME?style=for-the-badge&logo=github&label=Estrelas)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
----
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+![GitHub repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositórios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSEU_USERNAME)
 
 </div>
 
