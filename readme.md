@@ -76,7 +76,7 @@ Atualmente, estou em constante evolução, aprofundando meus conhecimentos em de
 
 ---
 
-## 🚀 Projetos & Experiências
+##  Projetos & Experiências
 
 Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo projetos que envolvem diferentes etapas do desenvolvimento de software:
 
