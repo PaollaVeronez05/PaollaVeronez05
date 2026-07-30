@@ -26,7 +26,6 @@
 
 ##  Sobre mim
 
-
 Sou estudante de **Desenvolvimento de Sistemas pelo SENAI São Paulo**, com foco em desenvolvimento **Full Stack** e direcionamento profissional para **Back-End**.
 
 Tenho interesse em **desenvolvimento de software, bancos de dados e Cibersegurança**, buscando criar soluções eficientes e aprimorar continuamente meus conhecimentos.
