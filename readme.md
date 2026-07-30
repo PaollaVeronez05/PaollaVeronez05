@@ -26,15 +26,17 @@
 
 ##  Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas pelo SENAI São Paulo**, com foco em desenvolvimento **Full Stack** e direcionando minha trajetória profissional principalmente para a área de **Back-End**.
+Sou estudante de **Desenvolvimento de Sistemas pelo SENAI São Paulo**, com foco em desenvolvimento **Full Stack**, direcionando minha trajetória profissional principalmente para a área de **Back-End**.
 
 Tenho interesse em criar aplicações, sistemas e soluções que unam **lógica de programação, banco de dados e desenvolvimento de software**, buscando sempre escrever códigos organizados, funcionais e eficientes.
+
+Além do desenvolvimento de software, também tenho interesse na área de **Cibersegurança**, buscando ampliar meus conhecimentos sobre segurança da informação, proteção de sistemas e desenvolvimento de soluções mais seguras.
 
 Durante minha formação, venho desenvolvendo projetos que envolvem diferentes etapas do desenvolvimento de software, desde a **prototipação e planejamento** até a implementação de aplicações funcionais.
 
 Também possuo experiência acadêmica com **metodologias ágeis**, especialmente **Scrum**, participando de projetos de desenvolvimento colaborativo.
 
-Atualmente, estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento de software e buscando novas oportunidades para transformar conhecimento em experiências práticas.
+ Atualmente, estou em constante evolução, aprofundando meus conhecimentos em **desenvolvimento Back-End, Cibersegurança e Engenharia de Software**, buscando novas oportunidades para transformar conhecimento em experiências práticas.
 
 ---
 
