@@ -1,16 +1,14 @@
 <div align="center">
 
-#  Olá, eu sou a Paolla Paula Veronez!
+#  Olá! Eu sou a Paolla Paula Veronez
 
-###  Desenvolvedora de Sistemas | Full Stack com foco em Back-End
+### 💻 Desenvolvedora de Sistemas | Full Stack com foco em Back-End
 
 <p>
   <em>
     Transformando ideias em soluções através da tecnologia, lógica e desenvolvimento de software.
   </em>
 </p>
-
-<br>
 
 <a href="https://www.linkedin.com/in/paolla-paula-veronez">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,157 +24,68 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas pelo SENAI São Paulo**, com foco em desenvolvimento **Full Stack**, direcionando minha trajetória profissional principalmente para a área de **Back-End**.
+Sou estudante de **Desenvolvimento de Sistemas pelo SENAI São Paulo**, com foco em desenvolvimento **Full Stack** e direcionando minha trajetória profissional para a área de **Back-End**.
 
-Tenho interesse em criar aplicações, sistemas e soluções que unam **lógica de programação, banco de dados e desenvolvimento de software**, buscando sempre escrever códigos organizados, funcionais e eficientes.
+Tenho interesse em desenvolvimento de software, bancos de dados e criação de aplicações e dashboards. Busco sempre aprimorar meus conhecimentos, desenvolver soluções eficientes e evoluir profissionalmente na área de tecnologia.
 
-Durante minha formação, venho desenvolvendo projetos utilizando diferentes tecnologias e ferramentas, além de trabalhar com **metodologias ágeis**, especialmente **Scrum**, participando de atividades de planejamento, desenvolvimento e organização de projetos.
-
-🚀 Atualmente, estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento de software e buscando novas oportunidades para transformar conhecimento em experiências práticas.
+Também possuo experiência acadêmica com **metodologias ágeis**, especialmente **Scrum**, trabalhando em projetos de desenvolvimento colaborativo.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens & Desenvolvimento
+### 💻 Desenvolvimento
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-
+<img src="https://skillicons.dev/icons?i=php" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </p>
 
 ### 🗄️ Banco de Dados
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
-
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
 </p>
 
-### 🔧 Ferramentas & Tecnologias
+### 🔧 Ferramentas & Metodologias
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
-
-</p>
-
-**Também trabalho com:**
-
-`phpMyAdmin` • `Figma` • `Miro` • `Kanban` • `Scrum`
-
----
-
-## 🧠 Áreas de interesse
-
-```text
-Back-End Development
-        │
-        ├── PHP
-        ├── Node.js
-        ├── JavaScript
-        │
-        └── APIs & Sistemas
-
-Banco de Dados
-        │
-        ├── MySQL
-        ├── SQLite
-        └── phpMyAdmin
-
-Desenvolvimento Web
-        │
-        ├── HTML
-        ├── CSS
-        └── Bootstrap
-
-Metodologias
-        │
-        ├── Scrum
-        └── Kanban
-```
+`Git` • `GitHub` • `VS Code` • `phpMyAdmin` • `Figma` • `Miro` • `Scrum` • `Kanban`
 
 ---
 
 ## 🚀 Projetos & Experiências
 
-Ao longo da minha formação em Desenvolvimento de Sistemas, venho trabalhando em projetos que envolvem diferentes etapas do desenvolvimento de software, desde a **prototipação e planejamento** até a implementação de aplicações funcionais.
+Ao longo da minha formação, venho desenvolvendo projetos que envolvem diferentes etapas do desenvolvimento de software:
 
-### 🔹 Desenvolvimento Web
-
-Criação de aplicações utilizando tecnologias como:
-
-- PHP
-- JavaScript
-- Node.js
-- HTML
-- CSS
-- Bootstrap
-
-### 🔹 Back-End & Banco de Dados
-
-Desenvolvimento de sistemas com integração e manipulação de dados utilizando:
-
-- MySQL
-- SQLite3
-- phpMyAdmin
-
-### 🔹 Projetos com Metodologias Ágeis
-
-Experiência acadêmica em projetos utilizando **Scrum**, participando de atividades relacionadas ao planejamento, organização de tarefas e desenvolvimento em equipe.
-
-### 🔹 Prototipação & UX
-
-Desenvolvimento de protótipos e interfaces utilizando ferramentas como **Figma**, buscando transformar requisitos e ideias em soluções digitais funcionais e visualmente organizadas.
+- 💻 Desenvolvimento de aplicações Web com **PHP, JavaScript, Node.js, HTML, CSS e Bootstrap**
+- 🗄️ Integração e gerenciamento de bancos de dados com **MySQL e SQLite3**
+- 📊 Desenvolvimento de **aplicações e dashboards**
+- 🎨 Prototipação de interfaces utilizando **Figma**
+- 🤝 Desenvolvimento colaborativo utilizando **Scrum e Kanban**
 
 ---
 
 ## 📚 Atualmente estudando
 
-<div align="center">
-
-| Área | Foco |
-|---|---|
-| 💻 Back-End | PHP, Node.js e JavaScript |
-| 🗄️ Banco de Dados | MySQL e SQLite |
-| 🔌 Desenvolvimento | APIs e integração de sistemas |
-| 🏗️ Engenharia | Arquitetura e boas práticas |
-| ⚙️ Software | Estrutura e organização de aplicações |
-| 🤝 Metodologias | Scrum e desenvolvimento colaborativo |
-
-</div>
+- 🔹 Desenvolvimento Back-End
+- 🔹 PHP e Node.js
+- 🔹 JavaScript
+- 🔹 APIs e integração de sistemas
+- 🔹 Bancos de dados
+- 🔹 Arquitetura e boas práticas de software
 
 ---
 
-## 🎯 Meus objetivos
+## 🎯 Objetivos
 
-Meu principal objetivo é continuar evoluindo como desenvolvedora e construir uma carreira sólida na área de tecnologia.
+Meu objetivo é construir uma carreira sólida na área de tecnologia, evoluindo como **Desenvolvedora Back-End** e, futuramente, aprofundar meus conhecimentos em **Engenharia de Software**.
 
-### No curto prazo
-
-- 📚 Aprofundar meus conhecimentos em Back-End
-- 💻 Desenvolver projetos cada vez mais completos
-- 🧠 Aprimorar minha lógica de programação
-- 🗄️ Evoluir meus conhecimentos em bancos de dados
-- 🔌 Aprender e desenvolver APIs
-- 🤝 Adquirir mais experiência trabalhando em equipe
-
-### No longo prazo
-
-- 🚀 Atuar profissionalmente como Desenvolvedora Back-End
-- 🏗️ Evoluir na área de Engenharia de Software
-- 💡 Participar do desenvolvimento de sistemas de maior escala
-- 🌎 Contribuir para projetos e soluções inovadoras
-- 📈 Manter uma evolução profissional e técnica contínua
+Busco constantemente novos desafios, projetos e oportunidades que me permitam aprender, colaborar e desenvolver soluções cada vez melhores.
 
 ---
 
@@ -184,44 +93,11 @@ Meu principal objetivo é continuar evoluindo como desenvolvedora e construir um
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
----
-
-## 📈 Minha jornada na tecnologia
-
-```text
-Desenvolvimento de Sistemas
-          │
-          ▼
-     Desenvolvimento Web
-          │
-          ▼
-     Full Stack Development
-          │
-          ▼
-      Foco em Back-End
-          │
-          ▼
-   Engenharia de Software
-          │
-          ▼
-  Desenvolvimento Profissional
-```
 
 ---
 
@@ -229,32 +105,12 @@ Desenvolvimento de Sistemas
 
 > **"Código, lógica e propósito transformando ideias em solução."**
 
-Acredito que desenvolver software vai além de escrever código. É compreender problemas, pensar em soluções, aprender continuamente e transformar ideias em produtos que realmente possam gerar valor.
-
----
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/paolla-paula-veronez">
-<img src="https://img.shields.io/badge/LinkedIn-Paolla%20Paula%20Veronez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💻 Desenvolvendo. Aprendendo. Evoluindo. 🚀
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Visualizações+do+perfil" />
+<a href="https://www.linkedin.com/in/paolla-paula-veronez">
+<img src="https://img.shields.io/badge/LinkedIn-Paolla%20Paula%20Veronez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
