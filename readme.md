@@ -123,21 +123,15 @@ Busco constantemente novos desafios e oportunidades que me permitam **aprender, 
 
 ---
 
----
 
----
-
-## 📊 GitHub
+## 📅 Minha atividade no GitHub
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=for-the-badge&logo=github&label=Seguidores)
-
-![GitHub stars](https://img.shields.io/github/stars/SEU_USERNAME?style=for-the-badge&logo=github&label=Estrelas)
-
-![GitHub repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositórios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSEU_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/SEU_USERNAME)
 
 </div>
+
 
 ---
 
