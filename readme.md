@@ -154,7 +154,7 @@ Acredito que desenvolver software vai além de escrever código. É compreender 
 
 ### 💻 Desenvolvendo. Aprendendo. Evoluindo. 🚀
 
-<a href="https://www.linkedin.com/in/paolla-paula-veronez">
+<a href="https://www.linkedin.com/in/paolla-paula-veronez/">
 <img src="https://img.shields.io/badge/LinkedIn-Paolla%20Paula%20Veronez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
