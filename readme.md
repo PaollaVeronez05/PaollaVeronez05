@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Paolla Paula Veronez!
+#  Olá, eu sou a Paolla Paula Veronez!
 
 ### 💻 Desenvolvedora de Sistemas | Full Stack com foco em Back-End
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas pelo SENAI São Paulo**, com foco em desenvolvimento **Full Stack** e direcionando minha trajetória profissional principalmente para a área de **Back-End**.
 
@@ -34,11 +34,11 @@ Durante minha formação, venho desenvolvendo projetos que envolvem diferentes e
 
 Também possuo experiência acadêmica com **metodologias ágeis**, especialmente **Scrum**, participando de projetos de desenvolvimento colaborativo.
 
-🚀 Atualmente, estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento de software e buscando novas oportunidades para transformar conhecimento em experiências práticas.
+Atualmente, estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento de software e buscando novas oportunidades para transformar conhecimento em experiências práticas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ### 💻 Linguagens & Desenvolvimento
 
@@ -123,72 +123,6 @@ Busco constantemente novos desafios e oportunidades que me permitam **aprender, 
 
 ---
 
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 💎 Peça Rara
-
-Projeto de desenvolvimento de uma aplicação web funcional, trabalhando desde a prototipação até a integração com banco de dados.
-
-**🛠️ Tecnologias**
-
-`PHP` `MySQL` `Bootstrap` `HTML` `CSS`
-
-**🎯 Foco**
-
-Desenvolvimento Full Stack • Banco de Dados • Desenvolvimento Web
-
-</td>
-
-<td width="50%" align="center">
-
-### 🏎️ Quiz da Fórmula 1
-
-Aplicação web desenvolvida para praticar conceitos de PHP, JavaScript e Bootstrap, utilizando lógica de programação e gerenciamento de sessões.
-
-**🛠️ Tecnologias**
-
-`PHP` `JavaScript` `Bootstrap` `HTML` `CSS`
-
-**🎯 Foco**
-
-Back-End • Lógica de Programação • Desenvolvimento Web
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🎬 Cineverso Park
-
-Projeto de prototipação e desenvolvimento de uma landing page para um parque temático inspirado no universo cinematográfico.
-
-**🛠️ Tecnologias**
-
-`Figma` `UI/UX` `Prototipação`
-
-**🎯 Foco**
-
-Design de Interfaces • Experiência do Usuário • Prototipação
-
-</td>
-
-<td width="50%" align="center">
-
-### 💻 Projetos SENAI
-
-Conjunto de projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas, explorando diferentes tecnologias e conceitos de programação.
 
 **🛠️ Tecnologias**
 
@@ -211,7 +145,7 @@ Desenvolvimento de Sistemas • Banco de Dados • Back-End
 
 ---
 
-## 💡 Filosofia
+##  Filosofia
 
 > **"Código, lógica e propósito transformando ideias em solução."**
 
