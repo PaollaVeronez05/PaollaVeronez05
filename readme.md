@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Paolla Paula Veronez!
+#  Olá, eu sou a Paolla Paula Veronez!
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -85,11 +85,11 @@ console.log(`Bem-vindo ao meu GitHub! 🚀`);
 ````
 ---
 
-# 📚 Minha Estante de Tecnologias
+#  Minha Estante de Tecnologias
 
 <div align="center">
 
-### 🛠️ Tecnologias que fazem parte da minha jornada
+###  Tecnologias que fazem parte da minha jornada
 
 <br>
 
