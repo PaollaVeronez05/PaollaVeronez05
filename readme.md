@@ -84,7 +84,7 @@ console.log(`Bem-vindo ao meu GitHub! 🚀`);
 ````
 ---
 
-#  Minha Estante de Tecnologias
+#   Tecnologias
 
 <div align="center">
 
