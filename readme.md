@@ -46,74 +46,34 @@ Possuo experiência acadêmica com metodologias ágeis, especialmente Scrum, e e
 
 ## 💻 Profile.js
 
-```javascript
-// profile.js
+// terminal.js
 
-const paolla = {
-  name: "Paolla Paula Veronez",
-  role: "Desenvolvedora de Sistemas",
-  education: "Técnico em Desenvolvimento de Sistemas - SENAI São Paulo",
+> whoami
 
-  focus: [
-    "Full Stack Development",
-    "Back-End Development"
-  ],
+Paolla Paula Veronez
 
-  interests: [
-    "Desenvolvimento de Software",
-    "Banco de Dados",
-    "Cibersegurança",
-    "Engenharia de Software"
-  ],
+> role
 
-  technologies: {
-    frontend: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Bootstrap"
-    ],
+Desenvolvedora de Sistemas
 
-    backend: [
-      "PHP",
-      "Node.js"
-    ],
+> focus
 
-    database: [
-      "MySQL",
-      "SQLite3",
-      "phpMyAdmin"
-    ],
+Full Stack
+↳ Back-End
 
-    tools: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "Figma",
-      "Miro"
-    ],
+> stack
 
-    methodologies: [
-      "Scrum",
-      "Kanban"
-    ]
-  },
+PHP • Node.js • JavaScript
+MySQL • SQLite3
 
-  goals: [
-    "Aprimorar minhas habilidades em Back-End",
-    "Desenvolver APIs e sistemas completos",
-    "Aprofundar meus conhecimentos em Cibersegurança",
-    "Evoluir na área de Engenharia de Software"
-  ]
-};
+> learning
 
-console.log(`Olá! Eu sou ${paolla.name}.`);
+Cibersegurança
+Engenharia de Software
 
-export default paolla;
+> status
 
-// Obrigada pela visita! 🚀
-```
-
+🚀 Building projects...
 ---
 
 # 📚 Minha Estante de Tecnologias
