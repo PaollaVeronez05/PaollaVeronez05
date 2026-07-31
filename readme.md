@@ -156,12 +156,12 @@ Possuo experiência acadêmica com metodologias ágeis, especialmente Scrum, e e
 
 Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo projetos que envolvem diferentes etapas do desenvolvimento de software:
 
-- 💻 Desenvolvimento de aplicações Web com **PHP, JavaScript, Node.js, HTML, CSS e Bootstrap**
-- 🗄️ Integração e gerenciamento de bancos de dados com **MySQL e SQLite3**
-- 📊 Desenvolvimento de **aplicações e dashboards**
-- 🎨 Prototipação de interfaces e soluções digitais utilizando **Figma**
-- 🤝 Desenvolvimento colaborativo utilizando **Scrum e Kanban**
-- 📋 Participação em projetos desde o **planejamento e prototipação até a implementação**
+-  Desenvolvimento de aplicações Web com **PHP, JavaScript, Node.js, HTML, CSS e Bootstrap**
+-  Integração e gerenciamento de bancos de dados com **MySQL e SQLite3**
+-  Desenvolvimento de **aplicações e dashboards**
+-  Prototipação de interfaces e soluções digitais utilizando **Figma**
+-  Desenvolvimento colaborativo utilizando **Scrum e Kanban**
+-  Participação em projetos desde o **planejamento e prototipação até a implementação**
 
 ---
 
@@ -189,13 +189,13 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, evoluindo
 
 ###  Próximos passos
 
-- 📚 Aprofundar meus conhecimentos em Back-End
-- 💻 Desenvolver projetos cada vez mais completos
-- 🧠 Aprimorar minha lógica e boas práticas de programação
-- 🗄️ Evoluir meus conhecimentos em bancos de dados
-- 🔌 Aprender e desenvolver APIs
-- 🔐 Aprofundar meus conhecimentos em Cibersegurança
-- 🤝 Adquirir mais experiência em projetos colaborativos
+-  Aprofundar meus conhecimentos em Back-End
+-  Desenvolver projetos cada vez mais completos
+-  Aprimorar minha lógica e boas práticas de programação
+-  Evoluir meus conhecimentos em bancos de dados
+-  Aprender e desenvolver APIs
+-  Aprofundar meus conhecimentos em Cibersegurança
+-  Adquirir mais experiência em projetos colaborativos
 
 Busco constantemente novos desafios e oportunidades que me permitam **aprender, colaborar e desenvolver soluções cada vez melhores**.
 
@@ -219,7 +219,7 @@ Acredito que desenvolver software vai além de escrever código. É compreender 
 
 <div align="center">
 
-### 💻 Desenvolvendo. Aprendendo. Evoluindo. 
+### Desenvolvendo. Aprendendo. Evoluindo. 
 
 <br>
 
