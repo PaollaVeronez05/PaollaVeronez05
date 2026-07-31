@@ -195,7 +195,7 @@ console.log(`Bem-vindo ao meu GitHub! 🚀`);
 
 ---
 
-## 🚀 Projetos & Experiências
+## Projetos & Experiências
 
 Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo projetos que envolvem diferentes etapas do desenvolvimento de software:
 
