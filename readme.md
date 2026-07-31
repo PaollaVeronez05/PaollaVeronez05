@@ -87,12 +87,111 @@ console.log(`Bem-vindo ao meu GitHub! 🚀`);
 
 #  Minha Estante de Tecnologias
 
+<div align="center">
+
 ---
 
 ###  Tecnologias que fazem parte da minha jornada
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2ce0f89a-30ea-43c4-a2b4-05608c77ea83" />
+<br>
 
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="PHP"/>
+<br><br>
+<strong>PHP</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="JavaScript"/>
+<br><br>
+<strong>JavaScript</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js"/>
+<br><br>
+<strong>Node.js</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML"/>
+<br><br>
+<strong>HTML</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS"/>
+<br><br>
+<strong>CSS</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="Bootstrap"/>
+<br><br>
+<strong>Bootstrap</strong>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL"/>
+<br><br>
+<strong>MySQL</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="55" alt="SQLite"/>
+<br><br>
+<strong>SQLite3</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git"/>
+<br><br>
+<strong>Git</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub"/>
+<br><br>
+<strong>GitHub</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code"/>
+<br><br>
+<strong>VS Code</strong>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+`phpMyAdmin` • `Figma` • `Miro` • `Scrum` • `Kanban`
+
+</div>
 
 ---
 
