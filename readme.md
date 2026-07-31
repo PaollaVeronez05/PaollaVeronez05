@@ -44,7 +44,6 @@ Possuo experiência acadêmica com metodologias ágeis, especialmente Scrum, e e
 
 ---
 
-##  Profile.js
 ```
 
 // profile.js
