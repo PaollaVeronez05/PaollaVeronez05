@@ -44,46 +44,6 @@ Possuo experiência acadêmica com metodologias ágeis, especialmente Scrum, e e
 
 ---
 
-```
-
-// profile.js
-
-const paolla = {
-  name: "Paolla Paula Veronez",
-
-  role: "Desenvolvedora de Sistemas",
-
-  focus: "Full Stack | Back-End",
-
-  studying: [
-    "PHP",
-    "Node.js",
-    "JavaScript",
-    "MySQL",
-    "Cibersegurança"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Figma"
-  ],
-
-  methodology: "Scrum",
-
-  currently: "Construindo projetos e evoluindo na área de Back-End.",
-
-  contact: {
-    linkedin: "linkedin.com/in/paolla-paula-veronez",
-    email: "paollap.veronez@gmail.com"
-  }
-};
-
-console.log(`Bem-vindo ao meu GitHub! 🚀`);
-````
----
-
 #   Tecnologias
 
 <div align="center">
