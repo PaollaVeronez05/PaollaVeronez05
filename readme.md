@@ -34,7 +34,7 @@
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas pelo SENAI São Paulo**, com foco em desenvolvimento **Full Stack** e direcionamento profissional para **Back-End**.
 
@@ -44,7 +44,7 @@ Possuo experiência acadêmica com metodologias ágeis, especialmente Scrum, e e
 
 ---
 
-## 💻 Profile.js
+##  Profile.js
 ```
 
 // profile.js
@@ -244,7 +244,7 @@ Busco constantemente novos desafios e oportunidades que me permitam **aprender, 
 
 ---
 
-## 📅 Minha atividade no GitHub
+##  Minha atividade no GitHub
 
 <div align="center">
 
