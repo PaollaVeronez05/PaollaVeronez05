@@ -183,7 +183,7 @@ Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia, evoluindo como **Desenvolvedora Back-End** e, futuramente, aprofundar meus conhecimentos em **Engenharia de Software e Cibersegurança**.
 
