@@ -139,7 +139,7 @@ console.log(`Bem-vindo ao meu GitHub! 🚀`);
 
 <div>
 
-🪵━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🪵
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
@@ -183,7 +183,7 @@ console.log(`Bem-vindo ao meu GitHub! 🚀`);
 
 <br>
 
-🪵━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🪵
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <br><br>
 
@@ -206,7 +206,7 @@ Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 <div align="center">
 
@@ -228,7 +228,7 @@ Ao longo da minha formação em Desenvolvimento de Sistemas, venho desenvolvendo
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia, evoluindo como **Desenvolvedora Back-End** e, futuramente, aprofundar meus conhecimentos em **Engenharia de Software e Cibersegurança**.
 
-### 🚀 Próximos passos
+###  Próximos passos
 
 - 📚 Aprofundar meus conhecimentos em Back-End
 - 💻 Desenvolver projetos cada vez mais completos
@@ -239,18 +239,6 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, evoluindo
 - 🤝 Adquirir mais experiência em projetos colaborativos
 
 Busco constantemente novos desafios e oportunidades que me permitam **aprender, colaborar e desenvolver soluções cada vez melhores**.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PaollaVeronez05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaollaVeronez05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -272,7 +260,7 @@ Acredito que desenvolver software vai além de escrever código. É compreender 
 
 <div align="center">
 
-### 💻 Desenvolvendo. Aprendendo. Evoluindo. 🚀
+### 💻 Desenvolvendo. Aprendendo. Evoluindo. 
 
 <br>
 
