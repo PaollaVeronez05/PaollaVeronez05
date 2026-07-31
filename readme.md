@@ -91,7 +91,7 @@ console.log(`Bem-vindo ao meu GitHub! 🚀`);
 
 ###  Tecnologias que fazem parte da minha jornada
 
-<img width="1360" height="1360" alt="image" src="https://github.com/user-attachments/assets/2ce0f89a-30ea-43c4-a2b4-05608c77ea83" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2ce0f89a-30ea-43c4-a2b4-05608c77ea83" />
 
 
 ---
