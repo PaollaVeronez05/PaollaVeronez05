@@ -45,6 +45,7 @@ Possuo experiência acadêmica com metodologias ágeis, especialmente Scrum, e e
 ---
 
 ## 💻 Profile.js
+```
 
 // profile.js
 
@@ -81,6 +82,7 @@ const paolla = {
 };
 
 console.log(`Bem-vindo ao meu GitHub! 🚀`);
+````
 ---
 
 # 📚 Minha Estante de Tecnologias
