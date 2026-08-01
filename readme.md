@@ -222,9 +222,4 @@ Acredito que desenvolver software vai além de escrever código. É compreender 
 <a href="https://www.linkedin.com/in/paolla-paula-veronez/">
 <img src="https://img.shields.io/badge/LinkedIn-Paolla%20Paula%20Veronez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://www.instagram.com/paolla_veronez5/">
-<img src="https://img.shields.io/badge/Instagram-Paolla-000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 </div>
